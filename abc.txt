@@ -2,7 +2,12 @@
 zomato
 swiggy
 
-
+house
+keeper
+swim
+run
+load
+jump
 
 
 
